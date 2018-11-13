@@ -1,1 +1,0 @@
-# q7x.github.io
