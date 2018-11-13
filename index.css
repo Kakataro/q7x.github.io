@@ -1,28 +1,23 @@
 body {
 background-color:black;
 color:white;
-font-family:'Raleway', sans-serif;
+font-family: 'Raleway', sans-serif;
 }
 
 .container {
-margin-top: 150px;
+ margin-top: 150px;
 }
 
 h1 {
-font-size:64px;
-text-decoration:none;
-}
-
-p1 {
-font-size:35px;
-}
-
-a {
-text-decoration:none;
-color:#20B2AA;
+ font-size: 64px;
+ font-family: 'Raleway', sans-serif;
 }
 
 hr {
-width: 30%;
-color: #636b6f;
+ width: 30%;
 }
+
+a {
+ text-decoration: none;
+}
+  
