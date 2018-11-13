@@ -4,10 +4,19 @@ color:white;
 font-family:'Raleway', sans-serif;
 }
 
+.container {
+margin-top: 150px;
+}
+
 h1 {
-font-size:84px;
+font-size:64px;
 text-decoration:none;
 }
+
+p1 {
+font-size:35px;
+}
+
 
 a {
 text-decoration:none;
